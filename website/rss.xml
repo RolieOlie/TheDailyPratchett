@@ -5,10 +5,17 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>6/9/24</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=33234</link>
+      <pubDate>Sun, 09 Jun 2024 02:33:13 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=33234</guid>
+      <description><![CDATA["*Glingleglingleglingle.*"<br><br> - Terry Pratchett, Hogfather]]></description>
+    </item>
+    <item>
       <title>6/8/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=33224</link>
-      <pubDate>Sat, 08 Jun 2024 02:29:18 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=33224</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=33233</link>
+      <pubDate>Sat, 08 Jun 2024 02:33:13 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=33233</guid>
       <description><![CDATA["There should be a notice ahead of the movie that says 'This
 movie is PG.  Can you read?  You are a Parent.  Do you understand what
 Guidance is?  Or are you just another stupid toddler who thinks they're
@@ -19,18 +26,18 @@ will you?  And shut the wretched kid up !'"<br><br> - Terry Pratchett, alt.fan.p
     </item>
     <item>
       <title>6/7/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=33223</link>
-      <pubDate>Fri, 07 Jun 2024 02:29:18 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=33223</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=33232</link>
+      <pubDate>Fri, 07 Jun 2024 02:33:13 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=33232</guid>
       <description><![CDATA["The librarian was, ex officio, a member of the college council. No-one had
 been able to find any rule about orang-utans being barred, although they
 had surreptiously looked very hard for one."<br><br>Unseen University politics at work - Terry Pratchett, Eric]]></description>
     </item>
     <item>
       <title>6/6/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=33222</link>
-      <pubDate>Thu, 06 Jun 2024 02:29:18 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=33222</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=33231</link>
+      <pubDate>Thu, 06 Jun 2024 02:33:13 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=33231</guid>
       <description><![CDATA["The only things known to go faster than ordinary light is monarchy,
 according to the philosopher Ly Tin Weedle. He reasoned like this: you
 can't have more than one king, and tradition demands that there is no gap
@@ -45,19 +52,11 @@ bar closed."<br><br> - Terry Pratchett, Mort]]></description>
     </item>
     <item>
       <title>6/5/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=33221</link>
-      <pubDate>Wed, 05 Jun 2024 02:29:18 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=33221</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=33230</link>
+      <pubDate>Wed, 05 Jun 2024 02:33:13 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=33230</guid>
       <description><![CDATA["Look, that's why there's rules, understand? So that you *think* before
 you break 'em."<br><br> - Terry Pratchett, Thief of Time]]></description>
-    </item>
-    <item>
-      <title>6/4/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=33220</link>
-      <pubDate>Tue, 04 Jun 2024 02:29:18 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=33220</guid>
-      <description><![CDATA["Cats don't hunt seals. They would if they knew what they were and where to
-find them. But they don't, so that's all right."<br><br> - Terry Pratchett, The Unadulterated Cat]]></description>
     </item>
   </channel>
 </rss>
