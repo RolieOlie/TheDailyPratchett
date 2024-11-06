@@ -5,27 +5,34 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>11/6/24</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=34734</link>
+      <pubDate>Wed, 06 Nov 2024 02:44:20 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=34734</guid>
+      <description><![CDATA[""Do not act incautiously when confronting little bald wrinkly smiling men!""<br><br>Rule One - Terry Pratchett, Thief of Time]]></description>
+    </item>
+    <item>
       <title>11/5/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=34724</link>
-      <pubDate>Tue, 05 Nov 2024 02:45:35 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=34724</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=34733</link>
+      <pubDate>Tue, 05 Nov 2024 02:44:20 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=34733</guid>
       <description><![CDATA["The labyrinth of Ephebe is ancient and full of one hundred and one amazing
 things you can do with hidden springs, razor-sharp knives, and falling
 rocks."<br><br> - Terry Pratchett, Small Gods]]></description>
     </item>
     <item>
       <title>11/4/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=34723</link>
-      <pubDate>Mon, 04 Nov 2024 02:45:35 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=34723</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=34732</link>
+      <pubDate>Mon, 04 Nov 2024 02:44:20 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=34732</guid>
       <description><![CDATA["For animals, the entire universe has been neatly divided into things to
 (a) mate with, (b) eat, (c) run away from, and (d) rocks."<br><br> - Terry Pratchett, Equal Rites]]></description>
     </item>
     <item>
       <title>11/3/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=34722</link>
-      <pubDate>Sun, 03 Nov 2024 02:45:35 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=34722</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=34731</link>
+      <pubDate>Sun, 03 Nov 2024 02:44:20 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=34731</guid>
       <description><![CDATA["AFPer: We've missed you, did you miss us?
 
 TP: Yes, but I think I have time to reload.
@@ -34,18 +41,10 @@ TP: Yes, but I think I have time to reload.
     </item>
     <item>
       <title>11/2/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=34721</link>
-      <pubDate>Sat, 02 Nov 2024 02:45:35 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=34721</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=34730</link>
+      <pubDate>Sat, 02 Nov 2024 02:44:20 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=34730</guid>
       <description><![CDATA[""The Truth Shall Make Ye Fret""<br><br> - Terry Pratchett, The Truth]]></description>
-    </item>
-    <item>
-      <title>11/1/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=34720</link>
-      <pubDate>Fri, 01 Nov 2024 02:45:35 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=34720</guid>
-      <description><![CDATA["They both savoured the strange warm glow of being much more ignorant than
-ordinary people, who were only ignorant of ordinary things."<br><br>Discworld scientists at work - Terry Pratchett, Equal Rites]]></description>
     </item>
   </channel>
 </rss>
