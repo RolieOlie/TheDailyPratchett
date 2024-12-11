@@ -5,17 +5,24 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12/11/24</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35084</link>
+      <pubDate>Wed, 11 Dec 2024 03:00:37 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35084</guid>
+      <description><![CDATA[""You can't second-guess ineffability, I always say.""<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>12/10/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35074</link>
-      <pubDate>Tue, 10 Dec 2024 03:03:01 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35074</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35083</link>
+      <pubDate>Tue, 10 Dec 2024 03:00:37 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35083</guid>
       <description><![CDATA["The kraken stirs. And ten billion sushi dinners cry out for vengeance."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
     <item>
       <title>12/9/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35073</link>
-      <pubDate>Mon, 09 Dec 2024 03:03:01 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35073</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35082</link>
+      <pubDate>Mon, 09 Dec 2024 03:00:37 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35082</guid>
       <description><![CDATA[""Jesus won't cut you off before you're through
     With him you won't never get a crossed line,
     And when your bill comes it'll all be properly itemised
@@ -28,9 +35,9 @@
     </item>
     <item>
       <title>12/8/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35072</link>
-      <pubDate>Sun, 08 Dec 2024 03:03:01 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35072</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35081</link>
+      <pubDate>Sun, 08 Dec 2024 03:00:37 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35081</guid>
       <description><![CDATA["HOTELS: A place where TRAVELLING HUMANS are parked at night. Other humans
 bring them food, including the famous BACON, LETTUCE AND TOMATO SANDWICH.
 There are beds and towels and special things that rain on people to get
@@ -39,20 +46,10 @@ them clean."<br><br>From A Scientific Encyclopedia for the Enquiring Young Nome
     </item>
     <item>
       <title>12/7/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35071</link>
-      <pubDate>Sat, 07 Dec 2024 03:03:01 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35071</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35080</link>
+      <pubDate>Sat, 07 Dec 2024 03:00:37 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35080</guid>
       <description><![CDATA["Crowley was in Hell's bad books. Not that Hell has any other kind."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>12/6/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35070</link>
-      <pubDate>Fri, 06 Dec 2024 03:03:01 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35070</guid>
-      <description><![CDATA["One or two of the old barrows had been exposed over the years, their huge
-stones attracting their own folklore. If you left your unshod horse at one
-of them overnight and placed sixpence on the stone, in the morning the
-sixpence would be gone and you'd never see your horse again, either..."<br><br> - Terry Pratchett, Carpe Jugulum]]></description>
     </item>
   </channel>
 </rss>
