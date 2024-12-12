@@ -5,24 +5,32 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12/12/24</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35094</link>
+      <pubDate>Thu, 12 Dec 2024 03:00:49 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35094</guid>
+      <description><![CDATA[""You can think and you can fight, but the world's always movin', and if
+you wanna stay ahead you gotta dance.""<br><br> - Terry Pratchett, The Amazing Maurice and his Educated Rodents]]></description>
+    </item>
+    <item>
       <title>12/11/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35084</link>
-      <pubDate>Wed, 11 Dec 2024 03:00:37 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35084</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35093</link>
+      <pubDate>Wed, 11 Dec 2024 03:00:49 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35093</guid>
       <description><![CDATA[""You can't second-guess ineffability, I always say.""<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
     <item>
       <title>12/10/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35083</link>
-      <pubDate>Tue, 10 Dec 2024 03:00:37 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35083</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35092</link>
+      <pubDate>Tue, 10 Dec 2024 03:00:49 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35092</guid>
       <description><![CDATA["The kraken stirs. And ten billion sushi dinners cry out for vengeance."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
     <item>
       <title>12/9/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35082</link>
-      <pubDate>Mon, 09 Dec 2024 03:00:37 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35082</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35091</link>
+      <pubDate>Mon, 09 Dec 2024 03:00:49 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35091</guid>
       <description><![CDATA[""Jesus won't cut you off before you're through
     With him you won't never get a crossed line,
     And when your bill comes it'll all be properly itemised
@@ -35,21 +43,14 @@
     </item>
     <item>
       <title>12/8/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35081</link>
-      <pubDate>Sun, 08 Dec 2024 03:00:37 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35081</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35090</link>
+      <pubDate>Sun, 08 Dec 2024 03:00:49 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35090</guid>
       <description><![CDATA["HOTELS: A place where TRAVELLING HUMANS are parked at night. Other humans
 bring them food, including the famous BACON, LETTUCE AND TOMATO SANDWICH.
 There are beds and towels and special things that rain on people to get
 them clean."<br><br>From A Scientific Encyclopedia for the Enquiring Young Nome
            by Angalo de Haberdasheri - Terry Pratchett, Wings]]></description>
-    </item>
-    <item>
-      <title>12/7/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35080</link>
-      <pubDate>Sat, 07 Dec 2024 03:00:37 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35080</guid>
-      <description><![CDATA["Crowley was in Hell's bad books. Not that Hell has any other kind."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
