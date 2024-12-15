@@ -5,17 +5,25 @@
     <description>A quote from Sir Terry Pratchett every day.</description>
     <atom:link href="http://mnocon.github.io/TheDailyPratchett/website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12/15/24</title>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35124</link>
+      <pubDate>Sun, 15 Dec 2024 03:06:41 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35124</guid>
+      <description><![CDATA["He wondered reflectively what would happen if you asked a nun where the
+Gents was. Probably the Pope sent you a sharp note or something."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
+    </item>
+    <item>
       <title>12/14/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35114</link>
-      <pubDate>Sat, 14 Dec 2024 02:56:03 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35114</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35123</link>
+      <pubDate>Sat, 14 Dec 2024 03:06:41 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35123</guid>
       <description><![CDATA["Even with nougat you can have a perfect moment."<br><br> - Terry Pratchett, Thief of Time]]></description>
     </item>
     <item>
       <title>12/13/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35113</link>
-      <pubDate>Fri, 13 Dec 2024 02:56:03 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35113</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35122</link>
+      <pubDate>Fri, 13 Dec 2024 03:06:41 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35122</guid>
       <description><![CDATA["Something small and distant broke through the cloud layer, trailing shreds
 of vapour. In the stratospheric calm the sounds of bickering came sharp and
 clear.
@@ -24,25 +32,18 @@ clear.
     </item>
     <item>
       <title>12/12/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35112</link>
-      <pubDate>Thu, 12 Dec 2024 02:56:03 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35112</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35121</link>
+      <pubDate>Thu, 12 Dec 2024 03:06:41 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35121</guid>
       <description><![CDATA[""You can think and you can fight, but the world's always movin', and if
 you wanna stay ahead you gotta dance.""<br><br> - Terry Pratchett, The Amazing Maurice and his Educated Rodents]]></description>
     </item>
     <item>
       <title>12/11/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35111</link>
-      <pubDate>Wed, 11 Dec 2024 02:56:03 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35111</guid>
+      <link>http://mnocon.github.io/TheDailyPratchett/?id=35120</link>
+      <pubDate>Wed, 11 Dec 2024 03:06:41 UT</pubDate>
+      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35120</guid>
       <description><![CDATA[""You can't second-guess ineffability, I always say.""<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
-    </item>
-    <item>
-      <title>12/10/24</title>
-      <link>http://mnocon.github.io/TheDailyPratchett/?id=35110</link>
-      <pubDate>Tue, 10 Dec 2024 02:56:03 UT</pubDate>
-      <guid isPermaLink="true">http://mnocon.github.io/TheDailyPratchett/?id=35110</guid>
-      <description><![CDATA["The kraken stirs. And ten billion sushi dinners cry out for vengeance."<br><br> - Terry Pratchett & Neil Gaiman, Good Omens]]></description>
     </item>
   </channel>
 </rss>
